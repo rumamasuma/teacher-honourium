@@ -1,0 +1,31 @@
+/* single card style */
+.teacher-card{
+    margin: 10px;
+    border: 2px solid darkviolet;
+    padding: 10px;
+    background-color:pink;
+    border-radius : 10px;
+    text-align: center;
+}
+body {
+    overflow-x: hidden;
+     background-color:lightcyan;
+}
+/* button  */
+.add-btn{
+    background-color:slateblue;
+    color: white;
+    width: 150px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    font-weight: 400;
+}
+/*  card img */
+.teacher-img img{
+    width: 100px;
+    height: 100px;
+ border: 1px solid slateblue; 
+  border-radius: 50px; 
+     
+ 
+}

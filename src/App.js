@@ -6,16 +6,10 @@ import Teachers from './Component/Teachers/Teachers';
 
 function App() {
 
-  // checked data in console
- // useEffect (() =>{
-  //   fetch('./fakeData.JSON')
-  //   .then(res => res.json())
-  //   .then(data => console.log(data));
-  // },[])
   return (
     <div >
-<Header></Header>
-<Teachers></Teachers>
+   <Header></Header>
+   <Teachers></Teachers>
     </div>
   );
 }
