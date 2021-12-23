@@ -11,7 +11,7 @@ const Header = () => {
            <div>
              <h1> Central Womens  Science & Technology University</h1>
             <h4> “Education is the most powerful weapon which you can use to change the world” – Nelson Mandela</h4>
-            <h3><i>Monthly Teachers Honourium : 29500 Million</i></h3>
+            <h3><i>Monthly Teachers Honourium : 24500 Million</i></h3>
             </div>
         </div>
     );
