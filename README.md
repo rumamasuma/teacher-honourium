@@ -1,7 +1,10 @@
-# Central Womens Science & Technology University(C.W University)
- 
+# C.W University
+## Teachers monthly honourium details.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- My project link https://github.com/ProgrammingHeroWC4/the-superhero-direction-rumamasuma/edit/main/README.md 
+ 
+- In this project you can find a department's  teachers  total monthly slary details 
+- Netlify deploy site  https://teachers-salary-sheet.netlify.app/ 
  
 
 ## Available Scripts
